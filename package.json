@@ -1,0 +1,12 @@
+{
+  "name": "headless-worker-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^1.11.0"
+  }
+}
